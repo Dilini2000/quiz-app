@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(173, 245, 227);
+}
+.score h1{
+    color: rgb(5, 99, 33);
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+}
+.title{
+    color: antiquewhite;
+    font-size: 24px;
+    position: fixed;
+    width: 100vw;
+    display: block;
+    top:0;
+    background-color: rgb(1, 85, 39);
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+}
